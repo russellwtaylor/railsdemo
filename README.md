@@ -1,2 +1,2 @@
 # railsdemo
-rails test app
+rails demo app
